@@ -128,7 +128,8 @@ The dashboard includes interactive filters for:
 - Year
 - Month
 - Hospital
-- Department
+- Department<img width="1002" height="576" alt="image" src="https://github.com/user-attachments/assets/c42235c6-b3e2-4217-a35c-4829c8f74fa9" />
+
 
 ## Key Insights
 
@@ -144,7 +145,8 @@ Insurance analysis provides insights into revenue contribution and patient distr
 
 Admission type analysis helps understand patient admission patterns.
 
-Length of stay and average billing provide additional operational insights into patient and hospital performance.
+Length of stay and average billing provide additional operational insights into patient and hospital performance.<img width="541" height="167" alt="image" src="https://github.com/user-attachments/assets/516584f9-aafa-4e41-b177-84da5ccc1d05" />
+
 
 ## Analysis Approach
 
